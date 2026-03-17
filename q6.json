@@ -2,5 +2,5 @@
   "prompt": "A photorealistic tailor's workshop, warm lamp lighting. A standard dress mannequin wearing a suit jacket that fits catastrophically wrong — the left shoulder is bunched up 3 inches too high, the right sleeve hangs 4 inches too long, the waist is cinched so tight it creates deep radiating stress wrinkles across the chest, the back collar sticks out awkwardly. The jacket was clearly custom-made for one very specific oddly-shaped human body and is completely unwearable on a standard form.",
   "model": "DALL-E 3 via ChatGPT (OpenAI)",
   "concept": "overfitting",
-  "metaphor": "A suit tailored to one specific body fits perfectly on them but fails completely on a standard mannequin — like a model memorizing training data."
+  "metaphor": "A jacket custom-made for one body fits that person perfectly but looks broken on any standard mannequin, like a model memorizing training data."
 }
