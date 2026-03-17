@@ -1,0 +1,6 @@
+{
+  "prompt": "A photorealistic wide-angle scene inside a vast golden hall. At the center stands one solitary person facing away from us, looking outward at the crowd. Around them, many clusters of people laugh and connect in groups of 4, 5, 6 — each person in those groups is themselves surrounded by even more people extending toward the edges of the hall. The crowd becomes denser toward the walls. The central figure is not sad — they simply have the fewest visible connections. The composition makes this mathematical isolation feel inevitable and eerie rather than emotional. Warm ambient light, shallow depth of field focused on the lone central figure, photojournalistic realism. No text, no labels, no numbers, no diagrams.",
+  "model": "DALL-E 3 via ChatGPT (OpenAI)",
+  "paradox": "The Friendship Paradox",
+  "visual_logic": "A lone central figure has fewest visible connections while every surrounding person belongs to denser clusters — the crowd grows more connected toward the edges, making the paradox spatially inevitable."
+}
