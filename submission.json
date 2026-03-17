@@ -1,0 +1,7 @@
+{
+  "prompt": "Photorealistic aerial-angle view of an endless forest stretching to the horizon. For the vast majority of the forest, all trees are uniform height, cool green and blue-grey tones, calm and still. In the final section closest to the foreground, the trees suddenly surge dramatically taller — glowing in deep amber, orange, and red, as if heated from within. The transition is sharp and alarming. No text, no labels, no graphs, no annotations. Cinematic lighting, dusk atmosphere, wide format, photojournalistic realism. Shot from a low diagonal angle that emphasizes the sudden height difference.",
+  "model": "DALL-E 3 via ChatGPT (OpenAI)",
+  "dataset_name": "GISS Surface Temperature Analysis (GISTEMP v4)",
+  "dataset_url": "https://data.giss.nasa.gov/gistemp/",
+  "insight": "Global average temperature remained relatively stable for most of the 20th century but has risen sharply and continuously since the 1980s, with recent decades forming a dramatic spike against over a century of data."
+}
